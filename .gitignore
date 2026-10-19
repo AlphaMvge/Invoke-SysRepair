@@ -1,0 +1,20 @@
+# Logs and reports
+*.log
+SysRepair_Report_*.txt
+Alpha_Repair_Report_*.txt
+reports/
+
+# PowerShell temporary artifacts
+*.ps1xml
+*.clixml
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor artifacts
+.vscode/
+.idea/
+*.suo
+*.user
